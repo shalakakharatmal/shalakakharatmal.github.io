@@ -12,7 +12,7 @@ A passionate full stack .net developer and product owner having an experience of
 
 ## PROFESSIONAL EXPERIENCE
  ### Project 1: Scania Tachograph Services
-	Company Name:  Scania Group (Sept 2019 – Present) - Senior System Developer
+	Company Name:  Scania Group (Sept 2019 – Present) - Senior System Developer/Product owner
 ####	Responsibilities: 			
 - Lead the Solution Design, Implementation
 -	Working independently on features and present the solution to users
