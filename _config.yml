@@ -1,1 +1,6 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/slate@v0.2.0 # this line adds the slate theme of Jekyll. You can replace "slate@v0.2.0" with your preferred theme.
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: "Our job is to invent on behalf of our users. ​– Anonymous" 
