@@ -11,7 +11,7 @@ A passionate full stack .net developer and product owner having an experience of
 .Net Frameworks, C#, AWS , Asp.net(3.5 / 4.0 / 4.5), MVC, MVVM, REST Web API, Web Application, Microservices, SOAP UI, Windows application, Entity framework, LINQ, JavaScript, Script(jQuery), JSON, AJAX, , WCF, React, HTML, HTML5, CSS, Bootstrap, Test Driven Development (TDD), Data Driven Development (DDD), XSLT, EKS, Terraform, CDK.
 
 ## PROFESSIONAL EXPERIENCE
- ### Project 1: Scania Tachograph Services
+   Project 1: Scania Tachograph Services
 	Company Name:  Scania Group (Sept 2019 – Present) - Senior System Developer/Product owner/ Scrum Master
 ####	Responsibilities: 			
 - Lead the Solution Design, Implementation
@@ -38,8 +38,8 @@ Responsibilities:
 -	SQL Server 2014/2016, Visual studio 2017, Nunit, TFS, JIRA
 
 Project 3: EQU-Equipment Utilization Tool
-o	Company Name: LNT-Infotech/ Scania AB (Feb 2016 – Jan 2017) - System Developer
-o	Responsibilities: 	
+	Company Name: LNT-Infotech/ Scania AB (Feb 2016 – Jan 2017) - System Developer
+	Responsibilities: 	
 -	front-end and back end developer.
 -	Create various modules from front end writing APIs
 -	Technologies and Tools: 
