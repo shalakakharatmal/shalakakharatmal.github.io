@@ -1,5 +1,5 @@
 ## Shalaka Kharatmal
-#### 📞 Mobile: +46-722571521 | 📧 Email: kharatmalshalaka@gmail.com 
+#### 📞 Mobile: +46-722571521 | 📧 Email: <kharatmalshalaka@gmail.com> 
 #### <https://www.linkedin.com/in/shalaka-kharatmal-9ab978a6/>
 
 -------------------     ----------------------------
