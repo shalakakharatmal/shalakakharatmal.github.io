@@ -1,4 +1,9 @@
+# Shalaka Kharatmal
+📞 Mobile: +46-722571521 | 📧 Email: kharatmalshalaka@gmail.com
 
+https://www.linkedin.com/in/shalaka-kharatmal-9ab978a6/
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## PROFILE
 A passionate full stack .net developer and product owner having an experience of 11 years across different domains within Automotive and Finance industry. Possessing strong back-end development skill and experience of working with latest .net & cloud technologies. I aspire to utilize my skillset not only to bring growth in my career but also be an important & distinguished asset to the organization.
 
@@ -18,7 +23,7 @@ C#.Net (Frameworks/Core/Standards), AWS (Lambda, DynamoDb, SQS, EventBridge), As
 -	Continuous development, testing and deployment - DevOps
 -	Actively involved in technical improvement and development
 -	Code clean up, reviews, scrum meetings and demo
--	Partially working as Product Owner for one of the module
+-	Partially working as Product Owner with experience in all relevent agile rituals, planning and prioritisation based on business and technical needs
 -	Technologies/Tools: 
 -	AWS (Lambda, EKS,EventBridge, SQS), C#.Net (Frameworks/Core/Standards), React, CSS, Rest API, WinForms, jQuery, JavaScript, .Net 6, .Net Core Web API, Web Application, WCF, OData, MVC, LINQ, Log4Net, Stored procedures, EKS, Powershell, Python and Terraform
 -	SQL server 2018, Visual studio 2022, Visual code, CI/CD, GIT, AWS portal.
