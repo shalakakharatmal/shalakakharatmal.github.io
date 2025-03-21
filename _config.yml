@@ -3,5 +3,5 @@ remote_theme: pages-themes/slate@v0.2.0 # this line adds the slate theme of Jeky
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: "title: "Our job is to invent on behalf of our users. ​– Anonymous"  
+title: "Our job is to invent on behalf of our users. ​– Anonymous" 
 
