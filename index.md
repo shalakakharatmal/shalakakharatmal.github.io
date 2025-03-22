@@ -100,7 +100,7 @@ Bachelor of Engineering (IT):  Datta Meghe college of engineering, India (2011)
 ..........................................................................................................................................................................................................................
 
 ### Other details
-- Certified Scrum Master -By Scrum Alliance (<https://bcert.me/sklmrglei>)
+- [Certified Scrum Master -By Scrum Alliance] (https://bcert.me/sklmrglei)
 - Certified Agile Product Owner -By Scania (<https://www.credly.com/badges/71689270-3bcf-42a0-830f-e7a4e9b43e9c/linked_in?t=sfk0oi>)
 - Customer Experience Mindset -By Scania (<https://www.credly.com/earner/earned/badge/398f1124-d244-494f-9c00-778a27a28e59>)
 - Swedish citizen
