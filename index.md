@@ -17,7 +17,7 @@ C#.Net (Frameworks/Core/Standards), AWS (Lambda, DynamoDb, SQS, EventBridge), As
 - Lead the Solution Design, Implementation
 -	Working independently on features and present the solution to users
 -	Partilally working as Scrum master for the team
--	Partially working as Product Owner with experience in all relevent agile rituals, planning and prioritisation based on business and technical needs
+-	Working as intermittent Product Owner for end to end customer facing systen with experience in all the relevent agile rituals, planning and prioritisation based on business and technical needs
 -	Working on .Net Core and framework, rest API and AWS for backend solution
 -	Helping team members for daily work activities
 -	Migration from Monolith to AWS with Unit test and Integration tests
