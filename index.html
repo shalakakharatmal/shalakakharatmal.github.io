@@ -99,6 +99,37 @@
     .content p {
       margin-bottom: 20px;
     }
+	   @media print {
+      body {
+        display: flex;
+        flex-direction: row;
+      }
+
+      .sidebar {
+        width: 30%;
+        padding: 20px;
+        box-sizing: border-box;
+        background-color: white;
+        color: black;
+      }
+
+      .content {
+        width: 75%;
+        padding: 20px;
+        box-sizing: border-box;
+      }
+
+      .sidebar, .content {
+        page-break-inside: avoid;
+      }
+
+      a {
+        color: black !important;
+        text-decoration: none;
+      }
+}
+
+
   </style>
 </head>
 <body>
